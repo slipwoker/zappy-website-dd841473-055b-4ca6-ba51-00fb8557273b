@@ -1,0 +1,92 @@
+# Northwest Compliance Group — Generative Engine Optimization Map
+
+> A Washington State-based professional services firm offering business registration, compliance document preparation, and surplus funds recovery. The brand projects a trustworthy, confident, and approachable identity rooted in Pacific Northwest culture, emphasizing transparency, accuracy, and integrity. The site vision includes a calm, elegant atmosphere with high-quality imagery of documents, business professionals, and PNW landscapes, designed to instill trust in individuals, entrepreneurs, and organizations seeking reliable filing and compliance support.
+
+---
+
+## Pages
+
+### Home
+https://example.com
+From sole proprietor filings to full compliance support, Northwest Compliance Group delivers trusted legal and business services rooted in Pacific Northwest integrity. Start today.
+
+### Business Registration & Filings
+https://example.com/business-registration-filings
+Ready to register a business name for your sole proprietorship? We handle every filing detail with precision so your business launches legally, confidently, and without the guesswork.
+
+### Compliance & Document Preparation
+https://example.com/compliance-document-preparation
+Eliminate costly errors with expert compliance document preparation. Our specialists craft precise, regulation-ready filings that protect your business and keep you ahead of deadlines.
+
+### Surplus Funds Recovery
+https://example.com/surplus-funds-recovery
+Surplus funds from foreclosures or government holdings may belong to you. Northwest Compliance Group guides you through every recovery step with transparency, speed, and zero confusion.
+
+### About
+https://example.com/about
+Built on Pacific Northwest values of transparency and integrity, our team brings deep expertise to every business filing and compliance challenge. Discover why clients trust us first.
+
+### Contact
+https://example.com/contact
+Have questions about registering a business name as a sole proprietor or recovering surplus funds? Reach our experts today and get clear, honest answers with zero pressure or jargon.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/contact
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Northwest Compliance Group
+A Washington State-based professional services firm offering business registration, compliance document preparation, and surplus funds recovery. The brand projects a trustworthy, confident, and approachable identity rooted in Pacific Northwest culture, emphasizing transparency, accuracy, and integrity. The site vision includes a calm, elegant atmosphere with high-quality imagery of documents, business professionals, and PNW landscapes, designed to instill trust in individuals, entrepreneurs, and organizations seeking reliable filing and compliance support.
+
+## Services/Products
+- Business Registration & Filings
+- Compliance & Document Preparation
+- Surplus Funds Recovery
+
+## Target Audience
+- Individuals, entrepreneurs, and organizations across Washington State
+- Washington Entrepreneurs
+- Nonprofit Organizations
+- Small Business Owners
+
+## Industry
+Legal & Business Services
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
