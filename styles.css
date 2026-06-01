@@ -11524,6 +11524,12 @@ div[id*="mic-access-tool-box"] button[class*="reset"] * {
   height: auto !important;
   max-width: none !important;
 }
+
+.navbar .logo-link img.logo, .navbar .nav-brand img.logo {
+  width: 640px !important;
+  height: auto !important;
+  max-width: none !important;
+}
 /* mobile-submenu-overflow-fix */
 @media (max-width: 768px) {
   .navbar .sub-menu.mobile-expanded,
